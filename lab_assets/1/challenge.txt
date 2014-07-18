@@ -1,1 +1,1 @@
-Domain: http://www.en.wikipidia.org
+Domain: en.wikipidia.org
