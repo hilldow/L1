@@ -1,1 +1,1 @@
-There is no code, it's a functioning redirect
+200 OK
