@@ -1,1 +1,1 @@
-Status Code: 404 Not Found
+There is no code, it's a functioning redirect
