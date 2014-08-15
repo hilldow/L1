@@ -2,7 +2,7 @@
 
 <contact 
 id="1"
-export date="05-10-2014."
+export_date="05-10-2014.">
 
     <first_name>John</first_name>
     <last_name>Doe</last_name>
