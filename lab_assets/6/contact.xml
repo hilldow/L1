@@ -11,7 +11,7 @@
         <state>AZ</state>
     </address>
     
-    <address>
+    <crm2016:address>
         <line_1>1234 East St.</line_1>
         <unit_type>Studio</unit_type>
         <unit_number>#4</unit_number>
@@ -19,6 +19,6 @@
         <city>Phoenix</city>
         <state>AZ</state>
         <country_code>1</country_code>
-    </address>
+    </crm2016:address>
     
 </contact>
