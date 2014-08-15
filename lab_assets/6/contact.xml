@@ -1,31 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<contact>
-    <addreses>
+<contact id="1">
+
     <first_name>John</first_name>
     <last_name>Doe</last_name>
+    <email>johndoe@lifecycleskills.com</email>
     
-        <address>
-            <city>Salt Lake City</city>
-            <state>Utah</state>
-            <zip>84404</zip>
-                
-        </address>
-        
-        <address>
-            <city>Salt Lake City</city>
-            <state>Utah</state>
-            <zip>84404</zip>
-
-        </address>
-        
-    </addreses>
-    
-    <emails>
-            <email>jdoe@jdoe.com</email>
-            <email>jdoe@jdoe.com</email>
-            <email>jdoe@jdoe.com</email>
-            <email>jdoe@jdoe.com</email>
-    </emails>
-
 </contact>
