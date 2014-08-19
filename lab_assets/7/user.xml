@@ -5,9 +5,24 @@
     <lastName>Doe</lastName>
     
 <contactAttempts>
-    <contactAttempt><date>06-10-2014</date><time>13:45</time><method>Phone</method></contactAttempt>
-    <contactAttempt><date>07-12-2014</date><time>15:30</time><method>Email</method></contactAttempt>
-    <contactAttempt><date>07-15-2014</date><time>15:30</time><method>Phone</method></contactAttempt>
+    <contactAttempt>
+        <date>06-10-2014</date>
+        <time>13:45</time>
+        <method>Phone</method>
+    </contactAttempt>
+    
+    <contactAttempt>
+        <date>07-12-2014</date>
+        <time>15:30</time>
+        <method>Email</method>
+        </contactAttempt>
+    
+    <contactAttempt>
+        <date>07-15-2014</date>
+        <time>15:30</time>
+        <method>Phone</method>
+    </contactAttempt>
+    
 </contactAttempts>
                 
                 
